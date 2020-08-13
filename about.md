@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 [email@domain.com](mailto:email@domain.com)
 
-![test-card.png](/uploads/test-card.png)
+![test-card.png](/jekylltest/uploads/test-card.png)
